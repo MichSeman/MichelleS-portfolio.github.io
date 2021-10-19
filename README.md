@@ -1,7 +1,7 @@
 # michelles-portfolio.github.io
 Name: Michelle Seman's Portfolio
 
-Description: A representation of my skills as a developer.
+Description: A representation of my growing skills as a developer.
 
 Installation: Steps will be added as portfolio becomes more substantial. 
 
